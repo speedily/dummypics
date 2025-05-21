@@ -1,4 +1,4 @@
-#  Verydorm
+#  Verydorm - Property On Blockchain
 - **Team Name:** Verydorm
 - **Payment Address:**
   - **USDT**: 0x7C7568e6f94a14bcDc71e1B4c475047915650b13 
@@ -13,11 +13,32 @@
 
 **Step into the future of property management with Verydorm  where blockchain meets trust, security, and prosperity.**
 
-**Project Name:**  
-Verydorm
-
 **Project Description:**  
 Verydorm is a decentralized platform aimed at transforming property management and real estate transactions, especially in developing and emerging nations. By leveraging blockchain technology, Verydorm solves problems like property fraud, lack of transparency in land records, and inefficiencies in renting and property maintenance. The platform enables secure listings, immutable property records, automated rent collection, and end-to-end property lifecycle management.
+
+## 2. Project Details
+
+### Problem Statement
+Real estate issues in developing countries include:
+- Widespread property fraud and unverified listings
+- Inaccessible or tampered land records
+- Inefficient processes for rentals, rent collection, and maintenance
+- Lack of tenant identity verification and landlord accountability
+
+### Proposed Solution
+Verydorm provides a decentralized, secure platform offering:
+- **Verified Property Listings** – Owners list with verified documentation.
+- **Blockchain Property Records** – Immutable and auditable.
+- **Tenant & Property Management** – Rent, legal tools, screening, repairs.
+- **Verydorm Coin (Token)** – Native token for transactions, verifications, and fees.
+
+
+
+### Use Cases
+- **Landlords:** Secure listing, tenant verification, rent automation  
+- **Tenants:** Discover verified rentals, build reputation  
+- **Property Managers:** Manage multiple units via dashboard  
+- **Blockchain Records:** Tamper-proof storage of ownership, rental history, and transactions
 
 
 ### **UI Design** 
@@ -71,7 +92,7 @@ Allowing People To Integrate Our Service With Base Features Like Recieving Donat
 - Brian Tanui - Frontend
 
 **Contact Information:**
-- Website: [https://frontend.verydorm.com](https://frontend.verydorm.com)
+- Website: [https://frontend.verydorm.com](https://www.verydorm.com)
 - YouTube Demo: [https://www.youtube.com/watch?v=95GyeeXWN5A](https://www.youtube.com/watch?v=95GyeeXWN5A)
 - GitHub: [https://github.com/Manuel254001/Verydorm](https://github.com/Manuel254001/Verydorm)
 - Email: ceo@verydorm.com
@@ -115,31 +136,7 @@ We have created backend API [web](https://backend.verydorm.com)
 
 Verydorm Coin is live - [web](https://coin.verydorm.com).
 
-## Development Roadmap 
 
-## 2. Project Details
-
-### Problem Statement
-Real estate issues in developing countries include:
-- Widespread property fraud and unverified listings
-- Inaccessible or tampered land records
-- Inefficient processes for rentals, rent collection, and maintenance
-- Lack of tenant identity verification and landlord accountability
-
-### Proposed Solution
-Verydorm provides a decentralized, secure platform offering:
-- **Verified Property Listings** – Owners list with verified documentation.
-- **Blockchain Property Records** – Immutable and auditable.
-- **Tenant & Property Management** – Rent, legal tools, screening, repairs.
-- **Verydorm Coin (Token)** – Native token for transactions, verifications, and fees.
-
-
-
-### Use Cases
-- **Landlords:** Secure listing, tenant verification, rent automation  
-- **Tenants:** Discover verified rentals, build reputation  
-- **Property Managers:** Manage multiple units via dashboard  
-- **Blockchain Records:** Tamper-proof storage of ownership, rental history, and transactions
 
 ## Development Roadmap 
 
@@ -201,6 +198,10 @@ Verydorm provides a decentralized, secure platform offering:
 - **AI Tools:** Smart pricing, fraud prediction, tenant analysis  
 - **Global Expansion:** Focus on Africa and other Developing Countries  
 - **Token Ecosystem:** $VERYDORM for staking, access, and discounts
+
+- **AI Chatbot on Government Sites:** Search property records from government sites via our chatbots.
+
+- **Integration Into Search Engines and Travel Booking Sites:** Search property records from hotel booking sites like Google and Booking.com via our api partner program integration.
 
 
 
