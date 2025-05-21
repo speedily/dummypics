@@ -6,7 +6,7 @@
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1 🐣
 
 
-## 1. Project Overview
+## 1. Project Overview.
 
 ![Verydorm Logo](https://raw.githubusercontent.com/speedily/dummypics/refs/heads/main/Logo1verydorm-removebg-preview.png)
 
